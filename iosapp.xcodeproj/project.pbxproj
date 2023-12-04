@@ -13,6 +13,7 @@
 		01CF8A3B2B1D7E4A002EF0D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01CF8A392B1D7E4A002EF0D3 /* Main.storyboard */; };
 		01CF8A3D2B1D7E4B002EF0D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01CF8A3C2B1D7E4B002EF0D3 /* Assets.xcassets */; };
 		01CF8A402B1D7E4B002EF0D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01CF8A3E2B1D7E4B002EF0D3 /* LaunchScreen.storyboard */; };
+		01CF8A482B1D8907002EF0D3 /* dog-puppy-on-garden-royalty-free-image-1586966191.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 01CF8A472B1D8907002EF0D3 /* dog-puppy-on-garden-royalty-free-image-1586966191.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		01CF8A3C2B1D7E4B002EF0D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01CF8A3F2B1D7E4B002EF0D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01CF8A412B1D7E4B002EF0D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01CF8A472B1D8907002EF0D3 /* dog-puppy-on-garden-royalty-free-image-1586966191.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dog-puppy-on-garden-royalty-free-image-1586966191.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				01CF8A3C2B1D7E4B002EF0D3 /* Assets.xcassets */,
 				01CF8A3E2B1D7E4B002EF0D3 /* LaunchScreen.storyboard */,
 				01CF8A412B1D7E4B002EF0D3 /* Info.plist */,
+				01CF8A472B1D8907002EF0D3 /* dog-puppy-on-garden-royalty-free-image-1586966191.jpg */,
 			);
 			path = iosapp;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				01CF8A402B1D7E4B002EF0D3 /* LaunchScreen.storyboard in Resources */,
 				01CF8A3D2B1D7E4B002EF0D3 /* Assets.xcassets in Resources */,
+				01CF8A482B1D8907002EF0D3 /* dog-puppy-on-garden-royalty-free-image-1586966191.jpg in Resources */,
 				01CF8A3B2B1D7E4A002EF0D3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

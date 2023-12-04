@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        activityIndicator.startAnimating()
         // Do any additional setup after loading the view.
     }
 
@@ -25,6 +26,13 @@ class ViewController: UIViewController {
             }
         let randomColor = changeColor()
         view.backgroundColor = randomColor
+    }
+    
+    @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
+    
+    @IBAction func sliderValueChanged(_ sender: UISlider) {
+        let value = sender.value
+        print(value)
     }
     
 }
