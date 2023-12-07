@@ -2,9 +2,9 @@
 
 Submitted by: **Tri Hoang**
 
-**Color Changin** is an app that specifies my personal information and has the ability to change its background color by clicking a button. It also has a slider and a waiting icon on the front page.
+**Color Changing** is an app that specifies my personal information and has the ability to change its background color by clicking a button. It also has a slider and a waiting icon on the front page.
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,6 @@ Here's a walkthrough of implemented features:
 This is the first time I have worked with Swift and XCode, so it took me a while to get used to them. The app has a lot of stuff, so it took a while to look for specific functions, especially learning how to build/run the app. However, after watching the introduction videos and trying out different features of XCode, I am intrigued by the interactiveness of the app. I love how we can develop our app with different features/elements and immediately see the result.
 
 ## App Brainstorming
-At the bottom of your README, add a section called App Brainstorming. In this section, you will add the following:
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 Example App: Instagram
@@ -34,6 +33,11 @@ Changing the background color of the messages screen
 Deleting old messages
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
+1. Facebook
+I love how different information is laid out in the app.
+It also divides different parts of a user account into very clear parts, making the user experience great.
+The algorithm to recommend posts to users is also extremely complex, and I find it to be perfect.
+2. Fantasy Premier League
 
 ## License
 
