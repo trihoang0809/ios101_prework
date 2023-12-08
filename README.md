@@ -4,7 +4,7 @@ Submitted by: **Tri Hoang**
 
 **Color Changing** is an app that specifies my personal information and has the ability to change its background color by clicking a button. It also has a slider and a waiting icon on the front page.
 
-Time spent: **7** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -27,17 +27,23 @@ This is the first time I have worked with Swift and XCode, so it took me a while
 
 ## App Brainstorming
 
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
-
 1. Facebook
 I love how different information is laid out in the app.
 It also divides different parts of a user account into very clear parts, making the user experience great.
 The algorithm to recommend posts to users is also extremely complex, and I find it to be perfect.
-2. Fantasy Premier League
+
+3. Premier League
+The app has gamification features where we can play Fantasy Football. The GUI of the game is really nice; it gives a feeling that we are managers.
+It also has a section for news and lineup updates.
+There is also a statistics section to look at players' and teams' data to make lineup decisions.
+
+5.  Bleacher Report
+It is divided into multiple sections, including live scores, news, and games.
+The scores are constantly updated, and the plays in a game are quickly documented, making it easy to stay updated.
+I think it also embeds Twitter inside the app, showing live tweets from reporters.
+
+
+I would like to build an app related to sports that can fetch data and update the GUI accordingly. It will also allow everyone to create accounts. Maybe people would be able to comment on sports games or watch the games together through the app. After the game, they can post their thoughts and share them with others. I would also like to add some gamification features and maybe a real-time leaderboard. If not sports, then the app can be anything related to entertainment or something that increases the efficiency of everyone's life.
 
 ## License
 
